@@ -93,21 +93,6 @@ int main(void) {
 	while (1) {
 		// Interrupts handlers are doing their job
 		// more specifically SysTick_Handler periodically calls the above callbacks
-
-//		stepperLeft.setPos(0);
-//		stepperMiddle.setPos(0);
-//		stepperRight.setPos(0);
-//
-//		delay_ms(3000);
-//		stepperLeft.setPos(0.5);
-//		stepperMiddle.setPos(0.5);
-//		stepperRight.setPos(0.5);
-//
-//		delay_ms(3000);
-//		stepperLeft.setPos(1);
-//		stepperMiddle.setPos(1);
-//		stepperRight.setPos(1);
-//		delay_ms(3000);
 	}
 }
 
